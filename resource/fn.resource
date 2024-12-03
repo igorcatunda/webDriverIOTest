@@ -1,3 +1,5 @@
+# All the functions are stored in here, they are going to be called out by main
+
 *** Settings ***
 Library    AppiumLibrary
 Library    OperatingSystem

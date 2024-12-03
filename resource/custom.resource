@@ -1,3 +1,5 @@
+# Custom keywords for swipes
+
 *** Settings ***
 Library    AppiumLibrary
 
